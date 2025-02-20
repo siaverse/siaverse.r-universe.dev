@@ -1,0 +1,18 @@
+[
+    {
+        "package": "EduTestTextAnalysis",
+        "url": "https://github.com/siaverse/EduTestTextAnalysis"
+    },
+    {
+        "package": "EduTestItemAnalysis",
+        "url": "https://github.com/siaverse/EduTestItemAnalysis"
+    },
+    {
+        "package": "SIAmodules",
+        "url": "https://github.com/siaverse/SIAmodules"
+    },
+    {
+        "package": "IRR2FPR",
+        "url": "https://github.com/siaverse/IRR2FPR"
+    }
+]

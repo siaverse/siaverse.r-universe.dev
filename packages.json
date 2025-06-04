@@ -14,5 +14,9 @@
     {
         "package": "IRR2FPR",
         "url": "https://github.com/siaverse/IRR2FPR"
+    },
+    {
+        "package": "SIAtools",
+        "url": "https://github.com/siaverse/SIAtools"
     }
 ]
